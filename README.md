@@ -11,3 +11,17 @@ In the decision tree classifier, each input pattern takes a path from the initia
 
 # Dataset
 
+The dataset used for the training and test simulations is a classification study of glass types performed with criminological research. Features are calculated from a digital image of a fine needle aspiration (FNA) of the breast mass. They describe the characteristics of the cell nucleus in the image. 30% of the dataset is saved for testing, and the evaluation metric is the jaccard_score function.
+> Attributes for each cell nucleus
+
+<ol>
+<li>radius</li>
+<li>texture </li>
+<li>perimeter</li>
+<li>area</li>
+<li>smoothness</li>
+<li>compactness </li>
+<li>concave points </li>
+<li>symmetry</li>
+<li>fractal dimension</li>
+</ol>
