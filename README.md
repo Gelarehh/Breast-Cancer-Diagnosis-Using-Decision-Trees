@@ -27,4 +27,4 @@ The dataset used for the training and test simulations are features calculated f
 <li>fractal dimension</li>
 </ol>
 
-Classes are defined as the diagnosis of the cancer stage as malignant and benign.
+Classes are defined as the diagnosis of the cancer stage as malignant and benign. To build the classifier, the metric of *entropy* is used as the evaluation metric, and the maximum depth of the tree is defined to be 4.
