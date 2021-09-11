@@ -6,7 +6,7 @@ In the decision tree classifier, each input pattern takes a path from the initia
 <br/><br/>
 
 <p align="center">
-  <img width="520" height="340" src="https://user-images.githubusercontent.com/66460485/128902873-bb27b651-2a87-472f-a4ba-2a1c1be46e5c.PNG">
+  <img width="520" src="https://user-images.githubusercontent.com/66460485/128902873-bb27b651-2a87-472f-a4ba-2a1c1be46e5c.PNG">
 </p>
 
 # Dataset
