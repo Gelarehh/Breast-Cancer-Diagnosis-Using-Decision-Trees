@@ -9,7 +9,7 @@ In the decision tree classifier, each input pattern takes a path from the initia
   <img width="520" src="https://user-images.githubusercontent.com/66460485/128902873-bb27b651-2a87-472f-a4ba-2a1c1be46e5c.PNG">
 </p>
 
-# Dataset
+## Dataset
 
 The dataset used for the training and test simulations are features calculated from a digital image of a fine needle aspiration (FNA) of the breast mass. They describe the characteristics of the cell nucleus in the image. 30% of the dataset is saved for testing, and the evaluation metric is the jaccard_score function.
 
